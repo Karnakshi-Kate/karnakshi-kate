@@ -3,21 +3,7 @@
 ☁ AWS Cloud & DevOps Engineer
 🚀 Terraform • Docker • Jenkins • Linux • CI/CD
 
----------------------------------------------------------------
 
-About Me
-
-Tech Stack
-
-Featured Projects
-
-GitHub Stats
-
-Contribution Graph
-
-Contact
-
----------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Karnakshi Kate</h1>
 
 <h3 align="center">
@@ -52,7 +38,7 @@ AWS Cloud & DevOps Engineer
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kkarnakshi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
