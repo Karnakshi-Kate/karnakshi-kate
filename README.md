@@ -150,19 +150,19 @@ AWS Cloud & DevOps Engineer
 
 # 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Karnakshi-Kate&theme=tokyo-night)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+![](https://github-profile-trophy.vercel.app/?username=Karnakshi-Kate&theme=algolia)
 
 ---
 
 # 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange)
+![](https://komarev.com/ghpvc/?username=Karnakshi-Kate&color=orange)
 
 ---
 
