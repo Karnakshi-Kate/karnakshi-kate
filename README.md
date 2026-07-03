@@ -1,46 +1,25 @@
-# Hi 👋 I'm Karnakshi Kate
+┌──────────────────────────────────────────────────────────────┐
+│                    AWS CLOUD & DEVOPS ENGINEER               │
+│                      Karnakshi Kate                          │
+└──────────────────────────────────────────────────────────────┘
 
-### ☁ AWS Cloud & DevOps Engineer
+👋 Hi, I'm Karnakshi
 
-Passionate about designing scalable cloud infrastructure,
-automating deployments, and building CI/CD pipelines.
+☁ AWS Cloud & DevOps Engineer
+🚀 Terraform • Docker • Jenkins • Linux • CI/CD
 
-🌍 India
-AWS Cloud Engineer
-DevOps Engineer
-Terraform Developer
-Docker | Jenkins | Kubernetes
-### Connect with me
+---------------------------------------------------------------
 
-LinkedIn
-GitHub
-Gmail
-Portfolio
-AWS
+About Me
 
-Terraform
+Tech Stack
 
-Docker
+Featured Projects
 
-Jenkins
+GitHub Stats
 
-Linux
+Contribution Graph
 
-Git
+Contact
 
-GitHub
-
-Nginx
-
-MySQL
-
-Java
-
-Python
-| Project                  | Description                              |
-| ------------------------ | ---------------------------------------- |
-| AWS 3-Tier Architecture  | Terraform + Jenkins + Docker + EC2 + RDS |
-| Static Website Hosting   | S3 + CloudFront                          |
-| Terraform Infrastructure | Complete AWS Infrastructure              |
-| Jenkins CI/CD            | Automatic Deployment                     |
-| Nginx Deployment         | Static Website Hosting                   |
+---------------------------------------------------------------
