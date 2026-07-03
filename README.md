@@ -130,21 +130,11 @@ AWS Cloud & DevOps Engineer
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Karnakshi-Kate&show_icons=true&theme=tokyonight)
-
 ---
 
 # 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=Karnakshi-Kate&theme=tokyonight)
-
----
-
-# 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karnakshi-Kate&layout=compact&theme=tokyonight)
 
 ---
 
