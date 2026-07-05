@@ -34,7 +34,7 @@ AWS Cloud & DevOps Engineer
 
 <p>
 
-<a href="https://www.linkedin.com/in/karnakshi-kate-0974b1354?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="www.linkedin.com/in/karnakshi-kate-0974b1354">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
